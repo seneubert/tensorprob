@@ -45,6 +45,7 @@ In order to run the examples you need jupyter and a few other tools. Inside your
 conda uninstall ipython
 conda install jupyter
 conda install matplotlib
+pip install --user git+https://github.com/ibab/matplotlib-hep
 ```
 
 ## Examples
